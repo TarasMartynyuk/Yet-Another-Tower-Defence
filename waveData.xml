@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWave xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Wave>
+    <Groups>
+      <Group>
+        <Type>Skeleton</Type>
+        <EnemyCount>0</EnemyCount>
+        <GroupName>Group #1</GroupName>
+      </Group>
+      <Group>
+        <Type>ArmoredSkeleton</Type>
+        <EnemyCount>5</EnemyCount>
+        <GroupName>Group #1</GroupName>
+      </Group>
+    </Groups>
+    <Pauses>
+      <float>0</float>
+      <float>0</float>
+    </Pauses>
+  </Wave>
+</ArrayOfWave>
